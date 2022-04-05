@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.stream.Stream;
 
 public class Main {
-    
+
     //Количество цифр в строке
     public static int numberOfDigits(String testString){
         int numberOfDigits =0;
@@ -185,6 +185,6 @@ public class Main {
         System.out.println("Is string a palindrome: " + isPalindrome(testString));
         System.out.println("Replacing substring in string: " +replaceSubstring(testString, testSubstring));
         System.out.println("Distance between substrings: " + distanceBetweenSubstrings(testString, "substring1", "substring2"));
-        System.out.println("Split characters with even and odd order: " + evenOrOddCharacters("alfabet"));
+        System.out.println("Split characters with even and odd order: " + evenOrOddCharacters("fablab"));
     }
 }
