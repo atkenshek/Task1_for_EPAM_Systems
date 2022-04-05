@@ -1,4 +1,4 @@
-#Task 1 for EPAM Systems
+# Task 1 for Epam Systems 
 
 ### Explore Methods
 
@@ -22,4 +22,5 @@ The project defines following methods.
 | replaceSubstring() | String testString, String testSubstring | Замена подстроки в строке | 
 | distanceBetweenSubstrings() | String testString, String substring1, String substring2| Расстояние между подстроками | 
 | evenOrOddCharacters() | String testString | Четные и нечетные символы разделить по разным строкам   | 
+
 Project was done by Temirzhanov Meiram Sopy
